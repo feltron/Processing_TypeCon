@@ -3,6 +3,8 @@
 - By Nicholas Felton
 - Reflection-based drawing app developed for TypeCon 2015 Identity System
 - Requires Control P5 Library: http://www.sojamo.de/libraries/controlP5/
+ 
+![alt tag](https://raw.githubusercontent.com/feltron/Processing_TypeCon/master/160506_171123_10575.jpg)
 
 ## Features
 - Click anywhere to add a new line to drawing.
